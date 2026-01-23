@@ -1,75 +1,81 @@
-About Me
+# Hi, I'm Mehmet Mert Asma
 
-I am a senior computer science student at Oakland City University with a strong interest in software development and backend systems. I enjoy building practical applications and learning how data structures, algorithms, and APIs work together in real-world software.
+**Senior Computer Science Student — Oakland City University**  
+📍 Evansville, Indiana  
+📧 mertasma7580@gmail.com  
 
-I have hands-on experience developing projects using Python and JavaScript, and I am especially interested in backend development, RESTful APIs, and problem-solving through clean and efficient code.
+---
 
-Currently, I am seeking software engineering internship opportunities where I can continue improving my technical skills and gain real industry experience.
+## 👋 About Me
 
-Focus Areas
+I am a **senior computer science student at Oakland City University** with a strong interest in **software development and backend systems**. I enjoy building practical applications and understanding how **data structures, algorithms, and APIs** work together in real-world software.
 
-Software Development
+I have hands-on experience working with **Python and JavaScript**, and I am especially interested in **backend development**, **RESTful APIs**, and writing clean, efficient code.
 
-Data Structures and Algorithms
+I am currently **seeking software engineering internship opportunities** where I can continue growing my technical skills and gain real industry experience.
 
-Backend Development
+---
 
-API Development
+## 🎯 Focus Areas
 
-Python Programming
+- **Software Development**
+- **Data Structures and Algorithms**
+- **Backend Development**
+- **API Development**
+- **Python Programming**
+- **JavaScript & Node.js**
 
-JavaScript and Node.js
+---
 
-Technologies
-Programming Languages
+## 🧠 Technologies
 
-Python
+### Programming Languages
+- **Python**
+- **JavaScript**
 
-JavaScript
+### Frameworks & Tools
+- **Node.js**
+- **Express.js**
+- **Flask**
+- **Git**
+- **VS Code**
+- **SQLite**
 
-Frameworks and Tools
+---
 
-Node.js
+## 📂 Projects
 
-Express.js
+### 🔹 Personal Organizer Application (Python)
+A command-line application that allows users to manage tasks and personal data using **stacks, queues, and dictionaries**.
 
-Flask
+### 🔹 Linked List Task Manager (Python)
+Implemented a custom **linked list data structure** to manage tasks, focusing on traversal, insertion, deletion, and pointer logic.
 
-Git
+### 🔹 RESTful Blog API (Node.js & Express)
+Built a RESTful backend API supporting **CRUD operations**, structured routing, and database integration using **Express and SQLite**.
 
-VS Code
+### 🔹 Library Management System API (Node.js, Express, SQLite)
+Developed a backend system for managing **authors and books**, including relational data handling and organized API endpoints.
 
-SQLite
+---
 
-Projects
-Personal Organizer Application (Python)
+## 🚀 Current Goals
 
-A command-line application that helps users manage tasks and personal information using stacks, queues, and dictionaries.
+- Preparing for **software engineering internships**
+- Strengthening **data structures and algorithm knowledge**
+- Building **backend-focused applications**
+- Improving **system design and clean code practices**
 
-Linked List Task Manager (Python)
+---
 
-Implemented a custom linked list structure to manage tasks, focusing on pointer logic, traversal, insertion, and deletion operations.
+## 📫 Contact
 
-RESTful Blog API (Node.js & Express)
+- **Email:** mertasma7580@gmail.com  
+- **Location:** Evansville, Indiana  
 
-Developed a RESTful API supporting CRUD operations, routing, and data persistence using Express and SQLite.
+---
 
-Library Management System API (Node.js, Express, SQLite)
+<p align="center">
+  <i>Senior Computer Science Student | Aspiring Software Engineer | Lifelong Learner</i>
+</p>
 
-Built a backend system to manage authors and books with relational data handling and structured API endpoints.
-
-Current Goals
-
-Preparing for software engineering internships
-
-Strengthening data structures and algorithm knowledge
-
-Building backend-focused projects
-
-Improving clean code and system design skills
-
-Contact
-
-Email: mertasma7580@gmail.com
-
-Location: Evansville, Indiana
